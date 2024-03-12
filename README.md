@@ -1,6 +1,6 @@
 ## About Me
 
-Highly motivated and self-directed IT professional with a strong foundation in web development (particularly Laravel) and a passion for continuous learning. Possesses a diverse skillset spanning web development frameworks, system administration, infrastructure management, database management, and security principles. Actively contributes to open-source projects, demonstrating a collaborative spirit and willingness to share knowledge.
+Highly motivated and results-oriented IT professional with a strong foundation in web development (particularly Laravel) and a continuous learning mindset.  Leverages diverse skills in web frameworks, system administration, infrastructure management, database management, and security principles to deliver impactful solutions.  Actively contributes to open-source projects, demonstrating a collaborative spirit and commitment to knowledge sharing.
 
 # IDE
 
